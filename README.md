@@ -37,8 +37,10 @@ Like our other enemies, turrets on the train have hit points and bullets.
 ![FNbMa_KWQAETnao](https://user-images.githubusercontent.com/77323644/186816573-eb9b7d1d-3479-4565-b391-cfbb1fe2d997.jpeg)
 
 We have 4 different types of enemies in the game.
+
 Our first enemy type is Lav-25. 
-Out second enemy type is Lanchester Armoured Car.
+
+Our second enemy type is Lanchester Armoured Car.
 
 ![275183364_382472337212951_7946516897779176898_n](https://user-images.githubusercontent.com/77323644/186818270-b8165efc-594f-46c4-a3aa-6e65eef0363c.jpg)
 
