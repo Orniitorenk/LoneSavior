@@ -8,15 +8,15 @@ If you have any advice, ideas or problems, please e-mail me. My e-mail: beerkayo
 
 If you want to play the game the link is: https://orniitorenk.itch.io/lone-savior
 
-![278907298_1230194571099272_6163708781793574855_n](https://user-images.githubusercontent.com/77323644/186819734-c1072f74-d6e1-499d-a96c-a2fe544897e2.jpg)
-
-We play as a tank. We have two abilities.
-
 Game Controls: W-A-S-D
 
 SPACE
 
 E
+
+![278907298_1230194571099272_6163708781793574855_n](https://user-images.githubusercontent.com/77323644/186819734-c1072f74-d6e1-499d-a96c-a2fe544897e2.jpg)
+
+We play as a tank. We have two abilities.
 
 ![Ingame](https://user-images.githubusercontent.com/77323644/186807869-12d6ef3f-2d58-45ef-9d65-9ae4b82cc713.jpg)
 
