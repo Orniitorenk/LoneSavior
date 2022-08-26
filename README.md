@@ -42,7 +42,7 @@ Out second enemy type is Lanchester Armoured Car.
 
 ![275183364_382472337212951_7946516897779176898_n](https://user-images.githubusercontent.com/77323644/186818270-b8165efc-594f-46c4-a3aa-6e65eef0363c.jpg)
 
-Our second enemy type is the Humvee.
+Our third enemy type is the Humvee.
 
 ![285923166_554380426187001_3947535055478788089_n](https://user-images.githubusercontent.com/77323644/186818957-8a6c891c-f602-4dc2-a088-654570078f1c.jpg)
 
