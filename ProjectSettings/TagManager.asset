@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  - Sparkles
+  - ShotEffect
+  - Enemy
+  - Shield
+  - Obstacles
+  - Lav25
+  - Turret
+  - Lav25Spawned
+  - Landmine
+  - SoundEffects
+  - Health
+  - GameManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - WhatIsPlayer
+  - WhatIsGround
+  - PlayerTankBullet
+  - EnemiesBullet
+  - Landmine
+  - Shield
+  - BrokenObstacles
+  - Obstacles
+  - Grass
+  - BrokenParts
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
