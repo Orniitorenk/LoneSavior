@@ -12,6 +12,12 @@ If you want to play the game the link is: https://orniitorenk.itch.io/lone-savio
 
 We play as a tank. We have two abilities.
 
+Game Controls: W-A-S-D
+
+SPACE
+
+E
+
 ![Ingame](https://user-images.githubusercontent.com/77323644/186807869-12d6ef3f-2d58-45ef-9d65-9ae4b82cc713.jpg)
 
 One of them creates a shield around our tank and we can rotate the turret and shield of the tank at the same time.
